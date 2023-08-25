@@ -1,0 +1,60 @@
+.box {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+p{
+    color: royalblue;
+}
+
+.content{
+    color: brown;
+}
+
+#h3{
+    color: red;
+}
+.q1{
+    color:crimson
+}
+.q2{
+    color: brown;
+}
+
+.q3{
+    color:darkmagenta;
+}
+.q4{
+    color:tomato;
+}
+.q5{
+    color:turquoise;
+}
+
+.q6{
+    color: teal;
+}
+.q7{
+    color:slateblue;
+}
+.q8{
+    color:aquamarine;
+}
+.q9{
+    color:sandybrown;
+}
+
+#heading{
+    color: red;
+}
